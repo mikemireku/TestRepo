@@ -1,5 +1,6 @@
 public class BasicJava1 {
-
+	
+	// First method documentation
 	public static boolean isLower(char aChar) {
 		return 'a' <= aChar && aChar <= 'z';
 	}
